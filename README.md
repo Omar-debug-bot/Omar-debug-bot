@@ -5,7 +5,6 @@ Computer Science student at the **Arab Academy for Science, Technology and Marit
 - 🎓 Coursework spanning Data Structures & Algorithms, OOP, Database Systems, Computer Architecture, Computer Networks, Digital Logic Design, Software Engineering, and Cybersecurity Fundamentals
 - 🏆 Experience with ICPC competitive programming (Codeforces + team-based competition), DECI (Digital Egypt Cubs Initiative via Udacity), and ITIDA (entrepreneurship & innovation internship, Egypt's Ministry of Communications and IT)
 - 🌱 Interested in software development, cybersecurity, and artificial intelligence
-- 🏊 9 years of competitive swimming experience, now coaching kids
 
 ### 🛠️ Core Coursework & Tools
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
